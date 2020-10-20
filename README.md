@@ -1,5 +1,10 @@
 # Release
 
+Version 1.0.3
+
+- Update initialization to always be up-to-date
+
+------------------------------
 Version 1.0.2
 
 - Missing folder error fix
