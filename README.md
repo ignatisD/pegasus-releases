@@ -1,5 +1,12 @@
 # Release
 
+Version 1.0.4
+
+- Fix initialization to allow partial updates
+- Fix a bug where the submit button could not be pressed
+- Fix unselectable classroom to use 'ΕΚΤΟΣ' and include it into the report
+
+------------------------------
 Version 1.0.3
 
 - Update initialization to always be up-to-date
