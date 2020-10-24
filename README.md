@@ -1,5 +1,11 @@
 # Release
 
+Version 1.0.5
+
+- Added login username and password for auto login to pegasus
+- Added quick fix button for rows that have not been matched
+
+------------------------------
 Version 1.0.4
 
 - Fix initialization to allow partial updates
