@@ -1,5 +1,11 @@
 # Release
 
+Version 1.0.6
+
+- Added support for multiple users
+
+------------------------------
+
 Version 1.0.5
 
 - Added login username and password for auto login to pegasus
