@@ -1,10 +1,17 @@
 # Release
 
+Version 1.0.8
+
+- Ported the pegasus crawler from php to nodejs with axios
+
+------------------------------
+
 Version 1.0.7
 
 - Added support for multiple departments at once and a new quick paste filter
 
 ------------------------------
+
 Version 1.0.6
 
 - Added support for multiple users
