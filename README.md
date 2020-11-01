@@ -1,5 +1,11 @@
 # Release
 
+Version 1.1.0
+
+- Added uploaded hours tracker
+- Other quality changes
+
+------------------------------
 Version 1.0.9
 
 - Migrated away from Timetable ids for matching records and started using slugs
