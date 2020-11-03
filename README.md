@@ -1,5 +1,11 @@
 # Release
 
+Version 1.1.4
+
+- Pull all provider pages
+
+------------------------------
+
 Version 1.1.3
 
 - Fixed day bug with Chania
