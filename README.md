@@ -1,5 +1,10 @@
 # Release
 
+Version 1.1.2
+
+- Fixed multi XML days
+
+------------------------------
 Version 1.1.1
 
 - Fixed co-teaching bug
