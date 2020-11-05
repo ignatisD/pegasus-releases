@@ -1,5 +1,11 @@
 # Release
 
+Version 1.1.5
+
+- Not found options no longer stop execution
+
+------------------------------
+
 Version 1.1.4
 
 - Pull all provider pages
