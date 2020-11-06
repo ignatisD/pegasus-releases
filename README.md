@@ -1,5 +1,12 @@
 # Release
 
+Version 1.1.6
+
+- Subject not found now tries to match itself with the remaining unused subjects
+- Added Semester and Timetable downloader
+
+------------------------------
+
 Version 1.1.5
 
 - Not found options no longer stop execution
