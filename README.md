@@ -1,5 +1,11 @@
 # Release
 
+Version 1.1.8
+
+- Fix greeklish transliteration
+
+------------------------------
+
 Version 1.1.7
 
 - Fix download pdfs limit
