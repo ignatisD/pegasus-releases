@@ -1,5 +1,11 @@
 # Release
 
+Version 1.1.7
+
+- Fix download pdfs limit
+
+------------------------------
+
 Version 1.1.6
 
 - Subject not found now tries to match itself with the remaining unused subjects
