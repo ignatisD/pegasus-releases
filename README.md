@@ -1,5 +1,11 @@
 # Release
 
+Version 1.1.9
+
+- Fix department search and match
+
+------------------------------
+
 Version 1.1.8
 
 - Fix greeklish transliteration
