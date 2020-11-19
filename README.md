@@ -1,5 +1,11 @@
 # Release
 
+Version 1.2.0
+
+- Add Timetable replace utility for a single department
+
+------------------------------
+
 Version 1.1.9
 
 - Fix department search and match
