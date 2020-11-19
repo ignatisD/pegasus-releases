@@ -1,5 +1,11 @@
 # Release
 
+Version 1.2.1
+
+- Search all pages for old timetable restore
+
+------------------------------
+
 Version 1.2.0
 
 - Add Timetable replace utility for a single department
