@@ -1,5 +1,12 @@
 # Release
 
+Version 2.0.0
+
+- Update the app to match the latest changes of the https://pegasus.it.minedu.gov.gr site.
+- This is a breaking change, but all functionality has been restored.
+- Docs will be updated at a later release.
+
+------------------------------
 Version 1.2.1
 
 - Search all pages for old timetable restore
