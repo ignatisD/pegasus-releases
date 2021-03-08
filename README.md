@@ -1,5 +1,12 @@
 # Release
 
+Version 2.0.2
+
+- Minor update of the replacement day uploader to include the class names that were selected
+- Documentation update
+
+------------------------------
+
 Version 2.0.1
 
 - Fix a bug with wrong periods affecting the replacement day uploader
