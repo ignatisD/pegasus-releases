@@ -1,5 +1,11 @@
 # Release
 
+Version 2.0.3
+
+- Add portable x86 (32bit) Version for older Windows systems
+
+------------------------------
+
 Version 2.0.2
 
 - Minor update of the replacement day uploader to include the class names that were selected
