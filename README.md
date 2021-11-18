@@ -1,5 +1,11 @@
 # Release
 
+Version 2.0.4
+
+- Update the code to reflect the changes to the website
+
+------------------------------
+
 Version 2.0.3
 
 - Add portable x86 (32bit) Version for older Windows systems
