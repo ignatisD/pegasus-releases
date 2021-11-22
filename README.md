@@ -1,5 +1,11 @@
 # Release
 
+Version 2.0.5
+
+- Add an option to update the classrooms by choosing a specific department
+
+------------------------------
+
 Version 2.0.4
 
 - Update the code to reflect the changes to the website
