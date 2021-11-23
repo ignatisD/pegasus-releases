@@ -1,5 +1,18 @@
 # Release
 
+
+Version 2.0.7
+
+- Fix an issue with missing outdoors activity classroom option
+
+------------------------------
+
+Version 2.0.6
+
+- Fix an issue with native dependencies
+
+------------------------------
+
 Version 2.0.5
 
 - Add an option to update the classrooms by choosing a specific department
