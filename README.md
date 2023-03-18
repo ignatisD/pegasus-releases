@@ -1,5 +1,14 @@
 # Release
 
+
+Version 2.2.0
+
+- Add experimental support for Microsoft Edge on Windows systems
+- Add experimental MacOS build
+- Introduced a splash screen
+
+------------------------------
+
 Version 2.1.0
 
 - Add an option to automatically set the matched providers
