@@ -1,5 +1,11 @@
 # Release
 
+Version 2.1.0
+
+- Add an option to automatically set the matched providers
+- Add support for context menu
+
+------------------------------
 
 Version 2.0.7
 
