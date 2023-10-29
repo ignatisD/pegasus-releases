@@ -1,6 +1,12 @@
 # Release
 
 
+Version 2.2.1
+
+- Fix a minor bug at login
+
+------------------------------
+
 Version 2.2.0
 
 - Add experimental support for Microsoft Edge on Windows systems
