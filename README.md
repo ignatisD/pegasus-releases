@@ -1,6 +1,19 @@
 # Release
 
 
+Version 2.3.0
+
+- Updated the providers matching and then choosing the correct one while uploading
+- Updated the department matching to ignore stuff in parentheses
+
+------------------------------
+
+Version 2.2.2
+
+- Fix the auto-updater
+
+------------------------------
+
 Version 2.2.1
 
 - Fix a minor bug at login
