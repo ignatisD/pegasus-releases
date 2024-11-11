@@ -1,6 +1,12 @@
 # Release
 
 
+Version 2.3.4
+
+- Fix a small issue with cookies that affected newer versions of Chrome
+
+------------------------------
+
 Version 2.3.0
 
 - Updated the providers matching and then choosing the correct one while uploading
